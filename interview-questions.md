@@ -7,7 +7,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is git? What is the difference between git and Github?
 
-  Your answer:
+  Your answer: hey there
 
   Researched answer:
 
@@ -15,7 +15,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 2. What types of evaluations will return a Boolean value?
 
-  Your answer:
+  Your answer: whats up
 
   Researched answer:
 

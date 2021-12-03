@@ -12,7 +12,7 @@
 var temp = 42
 // var temp = 350
 // var temp = 212
-
+ console.log(answer);
 
 // --------------------2) Create the code that will combine the two arrays and return the length using the variables provided below. Expected output: 10
 
