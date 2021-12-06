@@ -27,7 +27,7 @@ var greeting = "Hello World!"
 
 var languages = ["JavaScript", "Ruby", "Python", "C++"]
 var index = 1
-// console.log(languages[index])
+console.log(languages[index])
 
 // a) Your answer:
 // b) Verify and explain:
