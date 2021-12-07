@@ -10,8 +10,8 @@
 var cohort = "Echo 2021"
 // console.log(cohort.length)
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: 9, spelled out, 
+// b) Verify and explain: In order to determine the length the console it ordered to determin the length of the values in the string "Echo 2021". The space counts as a character.
 
 
 // --------------------2) What will this log?
@@ -19,18 +19,18 @@ var cohort = "Echo 2021"
 var greeting = "Hello World!"
 // console.log(greeting[3])
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: "l", the second "l"
+// b) Verify and explain: Strings are indexed to 0. the second "l" is index === 3.
 
 
 // --------------------3) What will this log?
 
 var languages = ["JavaScript", "Ruby", "Python", "C++"]
 var index = 1
-console.log(languages[index])
+// console.log(languages[index])
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: "Ruby"
+// b) Verify and explain: See above^. Arrays are indexed to zero. 
 
 
 // --------------------4) What will this log?
@@ -38,8 +38,8 @@ console.log(languages[index])
 var weekendDays = ["saturday", "sunday"]
 // console.log(weekendDays.toUpperCase())
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: "SATURDAY, SUNDAY", nothing
+// b) Verify and explain: .toUpperCase() is a string method and cannot be used on arrays. Tools that could make this work: .join(" "), function  (array) => {}, for loop.
 
 
 // --------------------5) What will this log?
@@ -47,5 +47,5 @@ var weekendDays = ["saturday", "sunday"]
 var dataTypes = ["number", "string", "Boolean"]
 // console.log(typeof dataTypes.length)
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: "error", number, 0 
+// b) Verify and explain: number: .length returns a number (3) and 3 is typeof number. 
